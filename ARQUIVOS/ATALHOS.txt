@@ -1,0 +1,18 @@
+Neste arquivo deixo salvo alguns dos atalhos que aprendi no curso de GIT e GITHUB, sendo eles: 
+
+- dir = Comando de listagem de diretórios;
+- ls = Comando de listagem de diretórios p/ GIT;
+- cd = "Change Directory" comando utilizado para ir para uma pasta ou diretório;
+- cls/ctrl + L = Limpa a tela;
+- TAB = Completa a palavra;
+- mkdir = "Make Directory" Comando para criar pastas;
+- echo = Printa um texto no terminal;
+- > = Redirecionamento de fluxo;
+- rmdir - "Remove Directory" Apaga um diretório;
+- mv "nome do diretório" / "nome do outro diretório" = Move o diretório para outro escolhido;
+- git clone + HTTPS = Clona um repositor na sua máquina;
+- git status = Verifica o status de um diretório;
+- git push origin main = "Empurra" o arquivo para o github conforme sua úiltima alteração;
+- git add . = Muda o status atual dos arquivos alterados; 
+- git pull = "Puxa" um arquivo que foi alterado por outra pessoa e está diferente da versão atual que vc possuí;
+- git commit -m "Mensagem para ficar identificada a razão do commit" = Comando para "commitar" um diretório e deixá-lo pronto para ficar staged- 
